@@ -1,0 +1,66 @@
+body {
+    background-color: #f5f5f5; /* Light gray background */
+    font-family: sans-serif;
+  }
+  
+  .jumbotron {
+    background-color: none; /* Remove background color */
+  }
+  .banner {
+    text-align: center; /* Center the content within the banner */
+    margin-bottom: 20px; /* Add some space below the banner */
+  }
+  
+  .heading {
+    font-weight: bold; /* Keep the heading bold */
+    /* You can adjust font size, color, etc. for the heading here */
+  }
+  
+  .lead {
+      /* Styles for the lead paragraph */
+  font-size: 18px; /* Adjust font size */
+  color: #666; /* Set a custom color (optional) */
+  margin-bottom: 0; /* Remove default bottom margin (optional) */
+  }
+  
+  .container {
+    padding: 20px; /* Add padding around content */
+  }
+  
+  .original_title,
+  .summary_title {
+    background-color: #337ab7; /* Blue background for titles */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px; /* Adjust padding */
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  
+  .originalTxt,
+  .summaryTxt {
+    padding: 20px;
+    font-size: 16px; /* Increase font size for readability */
+    border: 1px solid #ddd; /* Add a subtle border */
+    margin-bottom: 10px;
+  }
+  
+  .originalTxt {
+    background-color: white;
+  }
+  
+  .summaryTxt {
+    background-color: #f0f0f0; /* Lighter yellow for summary */
+    margin-left: 10px;
+  }
+  
+  .submitbtn {
+    margin-top: 10px;
+    background-color: #337ab7; /* Blue for submit button */
+    color: white;
+    border-color: #2e6da4; /* Adjust border color */
+  
+  }
+  
